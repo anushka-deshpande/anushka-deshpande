@@ -1,5 +1,5 @@
 
-![plot](./banner_github.png)
+![plot](./Images/banner_github.png)
 
 <!--
 **anushka-deshpande/anushka-deshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
