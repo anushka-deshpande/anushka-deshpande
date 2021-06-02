@@ -1,5 +1,5 @@
 
-![plot](./Images/banner_github.png)
+![plot](./Images/Anushka.png)
 
 👨‍🎓I am Anushka Deshpande, currently pursuing a Bachelors Degree in Computer Engineering. <br />
 💻I am a **Machine Learning** and **Data Science** enthusiast. <br />
