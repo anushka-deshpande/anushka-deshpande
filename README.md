@@ -1,5 +1,5 @@
 
-![plot](./Images/Anushka.png)
+![plot](./anushka-banner.png)
 
 👨‍🎓I am Anushka Deshpande, currently pursuing a Masters Degree in Computer Science at USC. <br />
 💻I am a **Machine Learning** and **Data Science** enthusiast. <br />
