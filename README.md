@@ -3,7 +3,7 @@
 
 👨‍🎓I am Anushka Deshpande, currently pursuing a Masters Degree in Computer Science at USC. <br />
 💻I am a **Machine Learning** and **Data Science** enthusiast. <br />
-💬Connect with me on linkedin [here](https://www.linkedin.com/in/anushka-deshpande153/).  <br/ >
+💬Connect with me on linkedin [here](https://www.linkedin.com/in/anushka-deshpande153/).<br />
 📫 **Email** me at: anushkaa@usc.edu.<br/>
 ⚡ **Fun Fact**: I also post my Mandala Artwork on Instagram - **@The.Floral.Notepad**.  
 
