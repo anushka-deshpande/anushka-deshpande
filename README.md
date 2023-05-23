@@ -5,7 +5,7 @@
 💻I am a **Machine Learning** and **Data Science** enthusiast. <br />
 💬Connect with me on linkedin [here](https://www.linkedin.com/in/anushka-deshpande153/).<br />
 📫 **Email** me at: anushkaa@usc.edu.<br/>
-⚡ **Fun Fact**: I also post my Mandala Artwork on Instagram - **@The.Floral.Notepad**.  
+⚡ **Fun Fact**: I also post my Mandala Artwork on Instagram - [**@The.Floral.Notepad**](https://www.instagram.com/the.floral.notepad/).
 
 <!--🏆🥇I am also into **competitive programming**. I am **2-star⭐️** coder at Codechef.<br /> -->
 
