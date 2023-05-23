@@ -1,4 +1,4 @@
-
+# ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Anushka Deshpande](https://github.com/anushka-deshpande) 
 ![plot](./anushka-banner.png)
 
 👨‍🎓I am Anushka Deshpande, currently pursuing a Masters Degree in Computer Science at USC. <br />
@@ -6,6 +6,14 @@
 💬Connect with me on LinkedIn [here](https://www.linkedin.com/in/anushka-deshpande153/).<br />
 📫 **Email** me at: anushkaa@usc.edu.<br/>
 ⚡ **Fun Fact**: I also post my Mandala Artwork on Instagram - [**@The.Floral.Notepad**](https://www.instagram.com/the.floral.notepad/).
+
+<h4 align="center">Mostly Using:</h4>
+<p align="center">Scikit-learn | Pandas | Keras</p>
+
+<p align="center">
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-deshpande&" alt="anushka-deshpande" />
+ </p>
+
 
 <!--🏆🥇I am also into **competitive programming**. I am **2-star⭐️** coder at Codechef.<br /> -->
 
