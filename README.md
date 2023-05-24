@@ -3,15 +3,17 @@
 
 👨‍🎓I am Anushka Deshpande, currently pursuing a Masters Degree in Computer Science at USC. <br />
 💻I am a **Machine Learning** and **Data Science** enthusiast. <br />
-💬Connect with me on LinkedIn [here](https://www.linkedin.com/in/anushka-deshpande153/).<br />
+💬Connect with me on LinkedIn: [Anushka Deshpande](https://www.linkedin.com/in/anushka-deshpande153/).<br />
 📫 **Email** me at: anushkaa@usc.edu.<br/>
-⚡ **Fun Fact**: I also post my Mandala Artwork on Instagram - [**@The.Floral.Notepad**](https://www.instagram.com/the.floral.notepad/).
+⚡ **Fun Fact**: I also post my Mandala Artwork on Instagram - [@The.Floral.Notepad](https://www.instagram.com/the.floral.notepad/).
 
-<h4 align="center">Mostly Using:</h4>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anushka-deshpande&show_icons=true" alt="anushka-deshpande" />
+ 
+ <h4 align="center">Mostly Using:</h4>
 <p align="center">Scikit-learn | Pandas | Keras</p>
 
 <p align="center">
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-deshpande&" alt="anushka-deshpande" />
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-deshpande" alt="anushka-deshpande" />
  </p>
 
 
