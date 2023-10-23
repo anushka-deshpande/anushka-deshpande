@@ -1,5 +1,5 @@
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Anushka Deshpande](https://github.com/anushka-deshpande) 
-![plot](./anushka-banner.png)
+![plot](./banner-anushka.png)
 
 👨‍🎓I am Anushka Deshpande, currently pursuing a Masters Degree in Computer Science at USC. <br />
 💻I am a **Machine Learning** and **Data Science** enthusiast. <br />
