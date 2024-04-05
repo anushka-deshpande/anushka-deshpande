@@ -7,7 +7,7 @@
 📫 **Email** me at: anushkaa@usc.edu.<br/>
 ⚡ **Fun Fact**: I also post my Mandala Artwork on Instagram - [@The.Floral.Notepad](https://www.instagram.com/the.floral.notepad/).
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anushka-deshpande&show_icons=true" alt="anushka-deshpande" />
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anushka-deshpande&show_icons=true" alt="anushka-deshpande" />
  
  <h4 align="center">Mostly Using:</h4>
 <p align="center">Scikit-learn | Pandas | Keras</p>
@@ -17,7 +17,7 @@
  </p>
 
 
-<!--🏆🥇I am also into **competitive programming**. I am **2-star⭐️** coder at Codechef.<br /> -->
+🏆🥇I am also into **competitive programming**. I am **2-star⭐️** coder at Codechef.<br /> -->
 
 <!--
 **anushka-deshpande/anushka-deshpande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
